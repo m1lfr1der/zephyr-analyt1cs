@@ -1,0 +1,28 @@
+{
+  "name": "zephyr-analyt1cs",
+  "version": "1.0.0",
+  "description": "Gain valuable insights with Zephyr Analytics, a data analytics toolkit for analyzing blockchain data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m1lfr1der/zephyr-analyt1cs"
+  },
+  "author": "m1lfr1der",
+  "license": "MIT",
+  "dependencies": {
+    "zephyr-analyt1cs": "1.0.0",
+    "zephyr-songerora": "1.0.0",
+    "bluebird": "1.0.0",
+    "socket.io": "1.0.0",
+    "validator": "1.0.0",
+    "cors": "1.0.0",
+    "commander": "1.0.0",
+    "mongoose": "1.0.0",
+    "react-dom": "1.0.0",
+    "xml2js": "1.0.0",
+    "react-redux": "1.0.0"
+  }
+}
